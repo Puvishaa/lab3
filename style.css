@@ -1,0 +1,26 @@
+.lufiya{
+    color: aqua;
+}
+span{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: smaller;
+    color: darkmagenta;
+    
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+.home{
+    padding-right: 20px;
+    color: blueviolet;
+}
+.menu{
+    padding-bottom: 20px;
+    color: brown;
+}
+.exit{
+    padding-left: 20px;
+    color: cadetblue;
+}
